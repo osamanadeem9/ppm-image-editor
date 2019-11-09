@@ -1,7 +1,6 @@
 # ppm-editor
 
-    The program takes a ppm image from user as input, displays a menu to the user
-showing various image effects and applies the effects as per user's choice.
+    The program takes a ppm image from user as input, displays a menu to the user showing various image effects and applies the effects as per user's choice.
 
 # Some details:
     - Entirely created in C language from scratch. No libraries used
