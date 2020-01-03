@@ -20,6 +20,9 @@ The working of the program is shown in the following image
 
 ![output](/SNAPSHOT/SNAPSHOT.JPG)
 
+## Sample inputs
+A few sample ppm images are present in [this folder](/sampleinputs)
+
 ## Output
 
 The output images created using the program are shown in [snapshot](/SNAPSHOT) folder
