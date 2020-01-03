@@ -2,7 +2,7 @@
 
 The program takes a ppm image from user as input, displays a menu to the user showing various image effects and applies the effects as per user's choice.
 
-# Some details:
+## Features:
 
 * Entirely created in C language from scratch. No libraries used
 * Includes features like:
@@ -12,3 +12,11 @@ The program takes a ppm image from user as input, displays a menu to the user sh
      * Just keep the reds, greens or blues  (displays only a specific color channel)
     * Extreme contrast
 * .ppm files can be opened using GIMP or any text editor in Windows, Mac and Linux etc.
+
+## Output
+
+The working of the program is shown in [snapshot](/SNAPSHOT) folder
+
+## Details
+
+Read [requirements.pdf](/requirements) for more details
