@@ -15,7 +15,7 @@ The program takes a ppm image from user as input, displays a menu to the user sh
 
 ## Output
 
-The working of the program is shown in [snapshot](/SNAPSHOT) folder
+The output images created using the program are shown in [snapshot](/SNAPSHOT) folder
 
 ## Details
 
