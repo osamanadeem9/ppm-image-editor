@@ -26,4 +26,4 @@ The output images created using the program are shown in [snapshot](/SNAPSHOT) f
 
 ## Details
 
-Read [requirements.pdf](/requirements) for more details
+Read [requirements.pdf](/requirements.pdf) for more details
